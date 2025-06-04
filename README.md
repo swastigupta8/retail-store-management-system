@@ -22,7 +22,7 @@ It allows store employees to manage inventory and customers to add items to a ca
 ## How to Run
 
 1. Clone the repository:  
-   `git clone https://github.com/your-username/retail-store-management-system.git`
+   `git clone https://github.com/swastigupta8/retail-store-management-system`
 
 2. Set up MySQL with the required database and tables (refer to the source code for schema)
 
