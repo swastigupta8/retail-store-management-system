@@ -27,7 +27,7 @@ It allows store employees to manage inventory and customers to add items to a ca
 2. Set up MySQL with the required database and tables (refer to the source code for schema)
 
 3. Run the script:  
-   `python retail_store.py`
+   `Retail Store Management System Python & MySQL.py`
 
 ## What I Learned
 
